@@ -26,7 +26,7 @@ Before you begin, ensure you have the following installed:
 ```bash  
 git clone https://github.com/your-username/solana-staking-app.git  
 cd solana-staking-app  
-
+```
 
 ### Build the program
 
